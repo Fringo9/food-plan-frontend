@@ -1,0 +1,11 @@
+/* src/index.css */
+body {
+  background-color: #FFF3E0;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
